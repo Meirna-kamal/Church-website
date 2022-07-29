@@ -105,7 +105,6 @@
     background-color: #de4b38;
     color: white;
     padding-top: 25px;
-    /*couldnt do it without the padding*/
     font-size: 30px;
     width: 80px;
     height: 80px;
@@ -195,7 +194,6 @@
 }
 
 .overLay {
-    /* Lama b3ml overlay 3al div kolaha elbutton msh rady yshtaghl w el kalam ba2a lono aghm2 7ata lama bady z-index a3la lel button welkalam*/
     position: absolute;
     top: 0;
     left: 0;
@@ -219,7 +217,6 @@
 }
 
 .fifthContainer .card {
-    /* Msh 3arfa aghayr 7agm el card wala 7agm el container wala a3ml margin mn gher ma wahda mnhom tnzl taht*/
     border: 20px solid white;
     /* margin: 10px; */
 }
@@ -409,5 +406,4 @@ footer .lastIcons {
 
 .navbar {
     /* position: fixed; */
-    /*msh 3arfa a3ml elposition fixed*/
 }
